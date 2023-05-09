@@ -11,9 +11,9 @@
 
 </div>
 
-## 내용
+---
 
-- `align-self`는 특정 아이템 정렬에 사용되며, `align-item`보다 우선적으로 적용된다
+- `align-self`는 특정 아이템 정렬에 사용되며, `align-item`보다 우선적으로 적용된다.
 
 - `align-content`는 두 줄부터 사용하는데 의미가 있다 즉, `flex-wrap:wrap;` 상태에서 사용해야 한다.
 
